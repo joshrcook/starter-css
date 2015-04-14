@@ -1,0 +1,240 @@
+/**
+ * Positioning Classes
+ */
+.inner-xs {
+	padding-top: 1em;
+	padding-bottom: 1em;
+}
+
+.inner-top-xs {
+	padding-top: 1em;
+}
+
+.inner-right-xs {
+	padding-right: 1em;
+}
+
+.inner-bottom-xs {
+	padding-bottom: 1em;
+}
+
+.inner-left-xs {
+	padding-left: 1em;
+}
+
+
+
+.inner-sm {
+	padding-top: 2em;
+	padding-bottom: 2em;
+}
+
+.inner-top-sm {
+	padding-top: 2em;
+}
+
+.inner-right-sm {
+	padding-right: 2em;
+}
+
+.inner-bottom-sm {
+	padding-bottom: 2em;
+}
+
+.inner-left-sm {
+	padding-left: 2em;
+}
+
+
+
+.inner-md {
+	padding-top: 3em;
+	padding-bottom: 3em;
+}
+
+.inner-top-md {
+	padding-top: 3em;
+}
+
+.inner-right-md {
+	padding-right: 3em;
+}
+
+.inner-bottom-md {
+	padding-bottom: 3em;
+}
+
+.inner-left-md {
+	padding-left: 3em;
+}
+
+
+
+.inner-lg {
+	padding-top: 4em;
+	padding-bottom: 4em;
+}
+
+.inner-top-lg {
+	padding-top: 4em;
+}
+
+.inner-right-lg {
+	padding-right: 4em;
+}
+
+.inner-bottom-lg {
+	padding-bottom: 4em;
+}
+
+.inner-left-lg {
+	padding-left: 4em;
+}
+
+
+
+.inner-xl {
+	padding-top: 5em;
+	padding-bottom: 5em;
+}
+
+.inner-top-xl {
+	padding-top: 5em;
+}
+
+.inner-right-xl {
+	padding-right: 5em;
+}
+
+.inner-bottom-xl {
+	padding-bottom: 5em;
+}
+
+.inner-left-xl {
+	padding-left: 5em;
+}
+
+
+
+.outer-xs {
+	margin-top: 1em;
+	margin-bottom: 1em;
+}
+
+.outer-top-xs {
+	margin-top: 1em;
+}
+
+.outer-right-xs {
+	margin-right: 1em;
+}
+
+.outer-bottom-xs {
+	margin-bottom: 1em;
+}
+
+.outer-left-xs {
+	margin-left: 1em;
+}
+
+
+
+.outer-sm {
+	margin-top: 2em;
+	margin-bottom: 2em;
+}
+
+.outer-top-sm {
+	margin-top: 2em;
+}
+
+.outer-right-sm {
+	margin-right: 2em;
+}
+
+.outer-bottom-sm {
+	margin-bottom: 2em;
+}
+
+.outer-left-sm {
+	margin-left: 2em;
+}
+
+
+
+.outer-md {
+	margin-top: 3em;
+	margin-bottom: 3em;
+}
+
+.outer-top-md {
+	margin-top: 3em;
+}
+
+.outer-right-md {
+	margin-right: 3em;
+}
+
+.outer-bottom-md {
+	margin-bottom: 3em;
+}
+
+.outer-left-md {
+	margin-left: 3em;
+}
+
+
+
+.outer-lg {
+	margin-top: 4em;
+	margin-bottom: 4em;
+}
+
+.outer-top-lg {
+	margin-top: 4em;
+}
+
+.outer-right-lg {
+	margin-right: 4em;
+}
+
+.outer-bottom-lg {
+	margin-bottom: 4em;
+}
+
+.outer-left-lg {
+	margin-left: 4em;
+}
+
+
+
+.outer-xl {
+	margin-top: 5em;
+	margin-bottom: 5em;
+}
+
+.outer-top-xl {
+	margin-top: 5em;
+}
+
+.outer-right-xl {
+	margin-right: 5em;
+}
+
+.outer-bottom-xl {
+	margin-bottom: 5em;
+}
+
+.outer-left-xl {
+	margin-left: 5em;
+}
+
+
+
+
+/**
+ * Bootstrap resets
+ */
+.list-inline li {
+	padding: 0;
+}
